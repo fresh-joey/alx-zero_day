@@ -1,2 +1,2 @@
-My first readme
-And after some hours, I'm getting better at using git. It's making me love the CLI more.
+Repository for Alx-zero day.
+Contains solutions to projects in the first week of learning Software Engineering
